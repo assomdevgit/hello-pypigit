@@ -1,6 +1,6 @@
 [project]
 name = "hello-pypigit"
-version = "0.3.0"
+version = "0.3.2"
 authors = [
     {name = "assomdevgit", email = "assomggm@gmail.com"},
 ]
@@ -21,3 +21,4 @@ test = [
 
 [project.scripts]
 hello-pypigit-pic = 'hello_pypigit.pic:pic'
+hello-pypigit-who = 'hello_pypigit.who:who'
